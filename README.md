@@ -1,7 +1,9 @@
-# Hey there! I'm [VANSHIT SINGH CHAUHAN] 👋
+# Hey there! I'm VANSHIT SINGH CHAUHAN 👋
  ---
-<br>🔭 I'm currently working on building full stack projects<br>🤝 I'm looking to collaborate on open source projects & internship opportunities<br>🌱 I'm currently learning React.js & Express.js (Node.js)<br>⚡ Fun fact: **I love turning ideas into real working web apps!**
-
+I'm a passionate **Full Stack Developer** (in progress 🚀) who loves building projects
+that are clean, functional, and actually useful. I work with **HTML, CSS, JavaScript & SQL**
+on the frontend and database side, know **Java**, and I'm currently leveling up with
+**React.js & Express.js** to go full stack.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshit-singh-chauhan-66163131b/) 
