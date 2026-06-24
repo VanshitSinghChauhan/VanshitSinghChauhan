@@ -1,9 +1,7 @@
 # Hey there! I'm VANSHIT SINGH CHAUHAN 👋
  
-I'm a passionate **Full Stack Developer** (in progress 🚀) who loves building projects
-that are clean, functional, and actually useful. I work with **HTML, CSS, JavaScript & SQL**
-on the frontend and database side, know **Java**, and I'm currently leveling up with
-**React.js & Express.js** to go full stack.
+I'm a passionate **Full Stack Developer** who loves building projects
+that are clean, functional, and actually useful. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshit-singh-chauhan-66163131b/) 
