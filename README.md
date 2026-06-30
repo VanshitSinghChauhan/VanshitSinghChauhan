@@ -28,7 +28,6 @@ that are clean, functional, and actually useful.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VanshitSinghChauhan&theme=tokyonight)
 
 ## 📫 Let's Connect!
 
