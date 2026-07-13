@@ -29,7 +29,4 @@ that are clean, functional, and actually useful.
 
 
 
-## 📫 Let's Connect!
 
-- 💼 Open to **internship opportunities**
-- 📧 Reach me at: **vanshitsinghchauhan16032005@email.com**
